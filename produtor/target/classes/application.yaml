@@ -1,0 +1,4 @@
+stream:
+  key: purchase-events
+publish:
+  rate: 1000
